@@ -39,3 +39,13 @@ defunkt/github-flavored-markdown#1
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
+
+
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+function test() {
+console.log("look ma’, no spaces");
+}
+```
