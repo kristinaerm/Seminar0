@@ -1,4 +1,4 @@
-# Seminar0
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -25,7 +25,12 @@ As Grace Hopper said:
 * Item 3b
 
 ![GitHub Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3eSsIXlDOwFCNp6KAaLP1wY_FOZRUduBVP1R5qHqWsinzASuPyQ)
+
 Format: ![Alt Text](url)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
